@@ -1,0 +1,15 @@
+C:\Users\VStrb\OneDrive\Dokumenty\Visual Studio 2022\C#\EvidencePojisteniProjekt\bin\Debug\net6.0\EvidencePojisteniProjekt.exe
+C:\Users\VStrb\OneDrive\Dokumenty\Visual Studio 2022\C#\EvidencePojisteniProjekt\bin\Debug\net6.0\EvidencePojisteniProjekt.deps.json
+C:\Users\VStrb\OneDrive\Dokumenty\Visual Studio 2022\C#\EvidencePojisteniProjekt\bin\Debug\net6.0\EvidencePojisteniProjekt.runtimeconfig.json
+C:\Users\VStrb\OneDrive\Dokumenty\Visual Studio 2022\C#\EvidencePojisteniProjekt\bin\Debug\net6.0\EvidencePojisteniProjekt.dll
+C:\Users\VStrb\OneDrive\Dokumenty\Visual Studio 2022\C#\EvidencePojisteniProjekt\bin\Debug\net6.0\EvidencePojisteniProjekt.pdb
+C:\Users\VStrb\OneDrive\Dokumenty\Visual Studio 2022\C#\EvidencePojisteniProjekt\obj\Debug\net6.0\EvidencePojisteniProjekt.csproj.AssemblyReference.cache
+C:\Users\VStrb\OneDrive\Dokumenty\Visual Studio 2022\C#\EvidencePojisteniProjekt\obj\Debug\net6.0\EvidencePojisteniProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VStrb\OneDrive\Dokumenty\Visual Studio 2022\C#\EvidencePojisteniProjekt\obj\Debug\net6.0\EvidencePojisteniProjekt.AssemblyInfoInputs.cache
+C:\Users\VStrb\OneDrive\Dokumenty\Visual Studio 2022\C#\EvidencePojisteniProjekt\obj\Debug\net6.0\EvidencePojisteniProjekt.AssemblyInfo.cs
+C:\Users\VStrb\OneDrive\Dokumenty\Visual Studio 2022\C#\EvidencePojisteniProjekt\obj\Debug\net6.0\EvidencePojisteniProjekt.csproj.CoreCompileInputs.cache
+C:\Users\VStrb\OneDrive\Dokumenty\Visual Studio 2022\C#\EvidencePojisteniProjekt\obj\Debug\net6.0\EvidencePojisteniProjekt.dll
+C:\Users\VStrb\OneDrive\Dokumenty\Visual Studio 2022\C#\EvidencePojisteniProjekt\obj\Debug\net6.0\refint\EvidencePojisteniProjekt.dll
+C:\Users\VStrb\OneDrive\Dokumenty\Visual Studio 2022\C#\EvidencePojisteniProjekt\obj\Debug\net6.0\EvidencePojisteniProjekt.pdb
+C:\Users\VStrb\OneDrive\Dokumenty\Visual Studio 2022\C#\EvidencePojisteniProjekt\obj\Debug\net6.0\EvidencePojisteniProjekt.genruntimeconfig.cache
+C:\Users\VStrb\OneDrive\Dokumenty\Visual Studio 2022\C#\EvidencePojisteniProjekt\obj\Debug\net6.0\ref\EvidencePojisteniProjekt.dll
